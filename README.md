@@ -41,12 +41,10 @@ else:
 ```
 requirment.txt:
 ```
-ultralytics
 streamlit
-opencv-python
+ultralytics
+opencv-python-headless
 pillow
-torch
-torchvision
 numpy
 ```
 README.md:
