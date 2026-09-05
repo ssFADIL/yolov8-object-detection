@@ -65,3 +65,5 @@ streamlit run app.py
 <img width="1907" height="956" alt="Screenshot 2026-09-05 204157" src="https://github.com/user-attachments/assets/05dff749-9667-49c5-aead-10ff052d9391" />
 
 ## Result:
+The YOLOv8 object detection model was successfully deployed on Streamlit Cloud.
+Live App: yolov8-object-detection-dczjbwqqexkkwsanoyfq5y.streamlit.app
