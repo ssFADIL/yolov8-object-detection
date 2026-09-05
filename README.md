@@ -1,4 +1,4 @@
-<img width="1694" height="827" alt="Screenshot 2026-09-05 204141" src="https://github.com/user-attachments/assets/0a863fc9-d3b9-4b63-aa56-6aed9185245b" /># YOLOv8 Object Detection
+# YOLOv8 Object Detection
 ## Setup
 conda create -n yolo_env python=3.10 -y
 conda activate yolo_env
